@@ -1,6 +1,6 @@
 # django base.html snippet
 
-~~~
+~~~html
 <!DOCTYPE html>
 <html>
 <head>
